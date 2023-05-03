@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oi, meu nome é Dionei 👋
+Estudante de tecnologia
 
 <!--
 **DioneiSilva/DioneiSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

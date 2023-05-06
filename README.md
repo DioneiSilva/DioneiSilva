@@ -1,6 +1,5 @@
 ## Olá, meu nome é Dionei 👋
- - Estudante de tecnologia;
- - Apaixonado pela vida.
+ - Estudante de tecnologia que ama aprender e é grato pelas oportunidades;
  
   🖥️ Atualmente aprendendo Java e Python:
   

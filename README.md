@@ -1,4 +1,4 @@
-# Olá, meu nome é Dionei 👋
+## Olá, meu nome é Dionei 👋
  - Graduado em Web Design e Programação
  - Pós-graduado em Sistemas de Informação
  

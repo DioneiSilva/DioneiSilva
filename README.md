@@ -4,7 +4,8 @@
  
   🖥️ Atualmente aprendendo Java e Python:
   
- <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
  #### Sobre mim
  Cursei a graduação e a Pós na modalidade EaD e com isso desenvolvi um pouco a parte de "pesquisar,encontrar respostas".

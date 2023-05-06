@@ -4,8 +4,9 @@
  
   🖥️ Atualmente aprendendo Java e Python:
  
-<img widhth='50' height='50' src="https://jsdelivr.net/gh/devicon/python/python-original.svg" />
-   
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
            
           
           

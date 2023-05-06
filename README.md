@@ -3,7 +3,7 @@
  
   🖥️ Atualmente aprendendo Java e Python:
   
- <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  **Java COMPLETO2023+Programação Orientada a Objetos +Projetos** na [Udemy](https://www.youtube.com/watch?v=RlSCoYwnxr4)
+ <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  **Java COMPLETO2023+Programação Orientada a Objetos +Projetos** na [Udemy](https://www.udemy.com/course/java-curso-completo/learn/lecture/10420480#questions)
  
  
  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> **PYTHON IMPRESSIONADOR** na [Hastag treinamentos](https://portalhashtag.com/cursos/1667483936207x795816268317746600)

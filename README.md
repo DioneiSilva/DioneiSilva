@@ -1,6 +1,6 @@
 # Olá, meu nome é Dionei 👋
  - Graduado em Web Design e Programação
- -Pósgraduado em Sistemas de Informação
+ - Pós-graduado em Sistemas de Informação
  
  ##Atualmente aprendendo Java e Python:
  

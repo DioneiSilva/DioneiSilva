@@ -1,12 +1,7 @@
 ### Olá, meu nome é Dionei 👋
-Estudante de tecnologia
-
- Apaixonado pela vida.
- 
-🖥️ No momento estudando Python e Java:
-
+<img widhth='50' height='50' src"https://jsdelivr.net/gh/devicon/python/python-original.svg" />
    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+           
           
           
           

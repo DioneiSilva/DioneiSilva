@@ -7,7 +7,7 @@
  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  
  #### Algumas peculiaridades:
- O livro [Aprendendo inteligencia] do professor Pier(https://www.youtube.com/watch?v=RlSCoYwnxr4)
+ O livro [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4)
           
 
             

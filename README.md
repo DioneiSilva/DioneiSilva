@@ -1,4 +1,4 @@
-## Olá, meu nome é Dionei 👋
+# Olá, meu nome é Dionei 👋
   Estudante de tecnologia que ama aprender e é grato pelas oportunidades;
  
   🖥️ Atualmente aprendendo Java e Python:

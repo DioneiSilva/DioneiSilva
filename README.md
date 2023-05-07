@@ -1,4 +1,4 @@
-### Olá, meu nome é Dionei 👋
+### Olá, meu nome é Dionei da Silva.
   Estudante de tecnologia que ama aprender;
  
   🖥️ Atualmente estudando Java e Python:

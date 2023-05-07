@@ -9,7 +9,7 @@
  ####
 A graduaçção e a pós foram cursadas na modalidade EaD,dessa forma foi "desenvolvido" um pouco a parte de "pesquisar e encontrar respostas".
  A leitura do livro Aprendendo Inteligência do professor Pier foi fundamental para a melhor absorção do estudo.
-A palestra de lançamento do livro pode ser assistida nesse link [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4) que mostra como aprender a aprender.dessa modalidade da educação.
+A palestra de lançamento do livro pode ser assistida nesse link [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4) que mostra como aprender a aprender.
  
 
             

@@ -1,5 +1,5 @@
 ### Olá, meu nome é Dionei da Silva.
-  Estudante de tecnologia que ama aprender;
+  Estudar,Aprender e Praticar - Desenvolvimento de Softwares.
  
   🖥️ Atualmente estudando Java e Php:
 

@@ -1,7 +1,7 @@
 ### Olá, meu nome é Dionei da Silva.
   Estudar,Aprender e Praticar - Desenvolvimento de Softwares.
  
-  🖥️ Atualmente estudando Java e Php:
+  🖥️ Atualmente estudando Java e php:
 
 
  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">

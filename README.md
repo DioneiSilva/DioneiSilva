@@ -8,8 +8,8 @@
  # 
  ####
 Graduado em Web Design e Programação pela Unisul -2009 à 2015- e posgraduado em Sistemas de Informação pela UniBF -2019 à 2020.
- Tanto a graduação quanto a pós foram cursadas na modalidade EaD,mas foi na leitura do livro Aprendendo Inteligência do professor Pier que realmente APRENDI A APRENDER e dessa forma,passei a assimilar com maior facilidade o conteúdo estudado.
-A palestra de lançamento do livro Aprendendo Inteligência pode ser assistida nesse link [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4) que mostra como aprender a aprender.
+ Tanto a graduação quanto a pós foram cursadas na modalidade EaD,mas foi na leitura do livro Aprendendo Inteligência do professor Pier que realmente APRENDI a APRENDER e dessa forma,passei a assimilar com maior facilidade o conteúdo estudado.
+A palestra de lançamento do livro pode ser assistida nesse link [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4) que mostra como aprender a aprender.
  
 
             

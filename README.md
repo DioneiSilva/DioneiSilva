@@ -1,5 +1,5 @@
-### Olá, meu nome é Dionei da Silva - Nei.
-  Estudar,entender,praticar e Aprender- Desenvolvimento de Softwares.
+### Olá, meu nome é Dionei da Silva.
+  Em meus estudos,procuro seguir as seguintes diretrizes: Estudar,entender,praticar e Aprender- Desenvolvimento de Softwares.
  
   🖥️ Atualmente estudando Java e Php:
 

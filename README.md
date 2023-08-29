@@ -12,8 +12,7 @@ Graduado em Web Design e Programação pela Unisul -2009 à 2015 - e pos-graduad
 Além disso,o aluno é instigado a buscar,procurar soluções,o que acaba desenvolvendo um pouco a habilidade em resolver problemas.
  Apesar de desenvolver um pouco a parte autodidata nos cursos acima descritos,foi na leitura do livro Aprendendo Inteligência do professor Pier que realmente APRENDI a APRENDER.
 Dessa forma,passei a assimilar com maior facilidade o conteúdo estudado - ficou fácil aprender.
- A palestra de lançamento do desse livro,pode ser assistida clicando aqui:
-[clicando aqui](https://www.youtube.com/watch?v=RlSCoYwnxr4)
+ A palestra de lançamento do desse livro,pode ser assistida [clicando aqui](https://www.youtube.com/watch?v=RlSCoYwnxr4)
 
 #
 

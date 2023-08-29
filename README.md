@@ -8,7 +8,8 @@
  # 
 
 Graduado em Web Design e Programação pela Unisul -2009 à 2015 - e pos-graduado em Sistemas de Informação pela UniBF -2019 à 2020.
- Tanto a graduação quanto a pós foram cursadas na modalidade EaD,esse tipo de abordagem nos "força" a buscar pelo conteúdo estudado.
+ Tanto a graduação quanto a pós foram cursadas na modalidade EaD,Essa opção de estudo - semipresencial- foi muito importante para conciliar fisioterapia,trabalho e estudo.
+Além disso,o aluno é instigado a buscar,procurar soluções,o que acaba desenvolvendo um pouco a habilidade em resolver problemas.
  Apesar de desenvolver um pouco a parte autodidata nos cursos acima descritos,foi na leitura do livro Aprendendo Inteligência do professor Pier que realmente APRENDI a APRENDER.
 Dessa forma,passei a assimilar com maior facilidade o conteúdo estudado - ficou fácil aprender.
  A palestra de lançamento do desse livro,pode ser assistida clicando aqui:

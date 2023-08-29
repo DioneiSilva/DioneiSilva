@@ -13,9 +13,11 @@ A palestra de lançamento do livro pode ser assistida nesse link [Aprendendo int
 
 #
 ## 
-Cusos de Php:
+## Cusos de Php:
 
-## Php Do zero a Maestria + Projetos
+### Php Do zero a Maestria + Projetos
+
+ nesse link [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4) que mostra como aprender a aprender.
 * Seção 1: Introdução
 * Seção 2:Conceitos básicos de PHP
 * Seção 3: Tipo de dados

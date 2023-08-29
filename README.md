@@ -8,7 +8,6 @@
  # 
 
 Graduado em Web Design e Programação pela Unisul -2009 à 2015;
-
 Pos-graduado em Sistemas de Informação pela UniBF -2019 à 2020.
 
  Tanto a graduação quanto a pós foram cursadas na modalidade EaD;

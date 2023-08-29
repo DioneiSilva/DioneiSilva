@@ -20,14 +20,7 @@ A palestra de lançamento do livro pode ser assistida nesse link [Ementa do curs
  nesse link [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4) que mostra como aprender a aprender.
 * Seção 1: Introdução
 * Seção 2:Conceitos básicos de PHP
-* Seção 3: Tipo de dados
-* Seção 4: Variáveis
-* Seção 5 Expreções e Operadores
-* Seção 6: Estruturas de controle
-* Seção 7: Estruturas de repetição
-* Seção 8: Inclusão de código
-* Seção 9:Funções
-* Seção 10: Avançando em Strings
+
 
 
  

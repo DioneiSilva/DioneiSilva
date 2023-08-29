@@ -18,7 +18,7 @@ Graduado em Web Design e Programação pela Unisul -2009 à 2015- e posgraduado 
 
  Php Do zero a Maestria + Projetos
 
- Ementa do curso nesse link [https://github.com/DioneiSilva/section18-Intefaces#readme) que mostra como aprender a aprender.
+ Ementa do curso nesse link [Ementa do curso](https://github.com/DioneiSilva/section18-Intefaces#readme)
 * Seção 1: Introdução
 * Seção 2:Conceitos básicos de PHP
 

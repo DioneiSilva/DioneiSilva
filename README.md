@@ -15,7 +15,17 @@ A palestra de lançamento do livro pode ser assistida nesse link [Aprendendo int
 ## 
 Cusos de Php:
 
-Php Do zero a Maestria + Projetos
+##Php Do zero a Maestria + Projetos
+*Seção 1: Introdução
+*Seção 2:Conceitos básicos de PHP
+*Seção 3: Tipo de dados
+* Seção 4: Variáveis
+* Seção 5 Expreções e Operadores
+* Seção 6: Estruturas de controle
+* Seção 7: Estruturas de repetição
+* Seção 8: Inclusão de código
+* Seção 9:Funções
+* Seção 10: Avançando em Strings
 
 
  

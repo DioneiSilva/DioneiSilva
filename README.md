@@ -14,7 +14,7 @@ Graduado em Web Design e Programação pela Unisul -2009 à 2015- e posgraduado 
 
 #
 
-### Cusos de Php:
+### Cusos em Php:
 
  Php Do zero a Maestria + Projetos
 

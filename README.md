@@ -12,7 +12,9 @@ Graduado em Web Design e Programação pela Unisul -2009 à 2015- e posgraduado 
 A palestra de lançamento do livro pode ser assistida nesse link [Aprendendo inteligencia](https://www.youtube.com/watch?v=RlSCoYwnxr4) que mostra como aprender a aprender.
 
 #
-###
+### Cursos de Php:
+#
+
  
 
             

@@ -1,5 +1,6 @@
 ### Olá, meu nome é Dionei da Silva.
-  Em meus estudos,procuro seguir as seguintes diretrizes: Estudar,entender,praticar e Aprender- Desenvolvimento de Softwares.
+  Graduado em Web Design e Programação
+  
  
   🖥️ Atualmente estudando Java e Php:
 

@@ -1,7 +1,7 @@
 ### Olá, meu nome é Dionei da Silva.
-  Graduado em Web Design e Programação</br>
-  Pós-graduado em Sistemas de Informação
-  Ambos os cursos foram
+  Graduado em Web Design e Programação : Unisulvirtual -2009 à 2015</br>
+  Pós-graduado em Sistemas de Informação: UniBF 2019 à2020
+  Ambos os cursos foram foram cursados na modalidade EaD,pois dessa forma,foi possível conciliar fisioterapia,trabalho e estudo.
   
  
   🖥️ Atualmente estudando Java e Php:

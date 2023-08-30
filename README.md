@@ -1,5 +1,7 @@
 ### Olá, meu nome é Dionei da Silva.
   Graduado em Web Design e Programação
+  Pós-graduado em Sistemas de Informação
+  Ambos os cursos foram
   
  
   🖥️ Atualmente estudando Java e Php:

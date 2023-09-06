@@ -21,7 +21,7 @@ Dessa forma,passei a assimilar com maior facilidade o conteúdo estudado - ficou
 
  ### Cusos em Java:
 
- Java 2022 COMPLETO:Do zero ao profissional + Projetos: [Ementa do curso](https://github.com/DioneiSilva/PHP_do_Zero_a_Maestria)
+ Java 2022 COMPLETO:Do zero ao profissional + Projetos: [Ementa do curso](https://github.com/DioneiSilva/Java2022_completo/blob/main/README.md)
 
 
 

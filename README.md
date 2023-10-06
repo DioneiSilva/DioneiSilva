@@ -2,7 +2,7 @@
  Estudar,entender,praticar e aprender - desenvolvimento de softwares -TI.
   
  
-  🖥️ Atualmente estudando Java e Php:
+  🖥️ Atualmente estudando Php:
 
 
  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">

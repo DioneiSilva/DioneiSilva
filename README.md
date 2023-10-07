@@ -10,7 +10,7 @@ Pós-Graduado em Sistemas de Informação pela UniBF -2019 à 2020.</br>
   
  # 
 
- A metodologia de estudos EaD -semipresencial- foi imprecindível para a realização em paralelo os afazeres da do dia a dia na época - Fisioterapia,trabalho e estudo.Apesar da modalidade EaD "estimular" o aluno,estudante à desenvolver a habilidade de pesquisar,encontrar soluções para os problemas foi através da leitura do livro Aprendendo Inteligência do professor Pier que realmente aprendi a aprender.</br>A palestra de lançamento desse livro,pode ser assistida [clicando aqui](https://www.youtube.com/watch?v=RlSCoYwnxr4)
+ A metodologia de estudos EaD -semipresencial- foi imprecindível para a realização em paralelo dos afazeres  do dia a dia na época - Fisioterapia,trabalho e estudo.</br>Apesar da modalidade EaD "estimular" o aluno,estudante à desenvolver a habilidade de pesquisar,encontrar soluções para os problemas foi através da leitura do livro Aprendendo Inteligência do professor Pier que realmente aprendi a aprender.</br>A palestra de lançamento desse livro,pode ser assistida [clicando aqui](https://www.youtube.com/watch?v=RlSCoYwnxr4)
 
 #
 

@@ -1,6 +1,6 @@
 ### Olá, meu nome é Dionei da Silva.
  Estudar,entender,praticar e aprender - desenvolvimento de softwares -TI.</br></br>
- Graduado em Web Design e Programação pela Unisul -2009 à 2015 e pos-graduado em Sistemas de Informação .</br>
+ Graduado em Web Design e Programação pela Unisul -2009 à 2015.</br>
 Pós-Graduado em Sistemas de Informação pela UniBF -2019 à 2020.</br>
   
  

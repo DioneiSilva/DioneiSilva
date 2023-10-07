@@ -5,7 +5,7 @@
   🖥️ Atualmente estudando Php:
 
 
-    <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
  # 
 
 Graduado em Web Design e Programação pela Unisul -2009 à 2015 e pos-graduado em Sistemas de Informação pela UniBF -2019 à 2020.</br>

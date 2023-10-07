@@ -4,7 +4,7 @@
 Pós-Graduado em Sistemas de Informação pela UniBF -2019 à 2020.</br>
   
  
-  🖥️ Atualmente estudando mais focado em:
+  🖥️ Atualmente estudando mais focado em:</br>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   
 
